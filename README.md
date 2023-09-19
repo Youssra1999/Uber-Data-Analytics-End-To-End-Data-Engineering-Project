@@ -45,3 +45,43 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
+git clone https://github.com/Youssra1999/uber-data-analysis.git 
+
+
+2. **Set Up GCP**: If you haven't already, create a Google Cloud Platform (GCP) account and set up a project. Configure GCP Storage and BigQuery for your project.
+
+3. **Install Dependencies**: Install the necessary Python libraries and dependencies by running:
+
+
+4. **Configure Mage Data Pipeline**: Set up and configure Mage for your data pipelines. Refer to the `mage_config.yaml` file for configuration details.
+
+5. **Upload Data to GCP Storage**: Upload the Uber data files to your GCP Storage bucket.
+
+6. **Run Data Pipelines**: Execute Mage data pipelines to ingest and preprocess the Uber data.
+
+7. **Load Data into BigQuery**: Load the preprocessed data into BigQuery tables for analysis.
+
+8. **Run Analysis Scripts**: Use Python scripts in the `analysis` directory to perform data analysis and generate insights.
+
+9. **Create Looker Dashboards**: Design interactive dashboards and reports in Looker Studio to visualize the results of your analysis.
+
+## Project Structure
+
+The project directory structure is organized as follows:
+
+- `data`: Contains the Uber data files.
+- `mage`: Stores Mage data pipeline configurations.
+- `analysis`: Includes Python scripts for data analysis.
+- `looker`: Contains Looker Studio dashboard configurations.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to the open-source communities and contributors of the tools and technologies used in this project.
+
+Feel free to reach out to the project maintainers for any questions or assistance.
+
+**Happy analyzing!**
