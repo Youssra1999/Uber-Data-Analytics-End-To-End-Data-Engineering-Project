@@ -1,1 +1,47 @@
 # -Uber-Data-Analytics-End-To-End-Data-Engineering-Project
+
+
+![Project Pipeline](image.png)
+
+## Overview
+
+This repository contains the code and documentation for analyzing Uber data using various tools and technologies, including Google Cloud Platform (GCP) Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The purpose of this project is to gain valuable insights from Uber data to make informed decisions and drive business strategies.
+
+## Tools and Technologies Used
+
+### 1. Google Cloud Platform (GCP) Storage
+
+- **Purpose**: GCP Storage is used for storing large datasets securely in the cloud.
+- **Usage**: We will upload and manage Uber data files in GCP Storage.
+
+### 2. Python
+
+- **Purpose**: Python is a versatile programming language that is used for data manipulation, analysis, and visualization.
+- **Usage**: We will write Python scripts to preprocess, analyze, and visualize Uber data.
+
+### 3. Compute Instance
+
+- **Purpose**: Compute instances provide scalable and reliable computing power on the cloud.
+- **Usage**: We will utilize Compute Instances to run data processing and analysis tasks efficiently.
+
+### 4. Mage Data Pipeline Tool
+
+- **Purpose**: Mage is a data pipeline tool that helps automate and orchestrate data workflows.
+- **Usage**: We will use Mage to create data pipelines for ingesting and processing Uber data.
+
+### 5. BigQuery
+
+- **Purpose**: BigQuery is a fully managed, serverless data warehouse for running fast and SQL-like queries.
+- **Usage**: We will load Uber data into BigQuery tables for advanced querying and analysis.
+
+### 6. Looker Studio
+
+- **Purpose**: Looker Studio is a business intelligence and data visualization tool.
+- **Usage**: We will create interactive dashboards and reports in Looker Studio to visualize the results of our analysis.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
