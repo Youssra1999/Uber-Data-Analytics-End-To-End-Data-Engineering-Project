@@ -8,7 +8,7 @@
 This repository contains the code and documentation for analyzing Uber data using various tools and technologies, including Google Cloud Platform (GCP) Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The purpose of this project is to gain valuable insights from Uber data to make informed decisions and drive business strategies.
 
 ## Uber Data Model
-![Data Model](Uber Data Model - Page 1.png)
+![Data Model](UberDataModel.png)
 
 
 ## Tools and Technologies Used
